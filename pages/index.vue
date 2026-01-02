@@ -7,7 +7,7 @@
     <section class="event-info">
       <div class="date">2025년 5월 9일 (토)</div>
       <div class="time">오후 6시</div>
-      <div class="venue">홍대 클럽 SOUND</div>
+      <div class="venue">공간 비틀즈</div>
     </section>
 
     <section class="message">
@@ -37,6 +37,40 @@
         <div class="setlist-item">6. Official髭男dism - Pretender</div>
         <div class="setlist-item">7. DAY6 - 그녀가 웃었다</div>
         <div class="setlist-item">8. 전영호 - Butterfly</div>
+      </div>
+    </section>
+
+    <section class="location">
+      <h3 class="location-title">📍 오시는 길</h3>
+      <div class="venue-detail">
+        <div class="venue-name">공간 비틀즈</div>
+        <div class="venue-address">서울특별시 마포구 와우산로29나길 18-6</div>
+        <div class="venue-info">
+          지하철 2호선 홍익대입구역 7번 출구 도보 3분
+        </div>
+      </div>
+
+      <div class="map-container">
+        <iframe
+          src="https://map.naver.com/p/entry/place/1292176455?c=15.00,0,0,0,dh"
+          width="100%"
+          height="300"
+          frameborder="0"
+          scrolling="no"
+          marginheight="0"
+          marginwidth="0"
+        >
+        </iframe>
+      </div>
+
+      <div class="map-link">
+        <a
+          href="https://map.naver.com/p/search/%EA%B3%B5%EA%B0%84%20%EB%B9%84%ED%8B%80%EC%A6%88/place/1292176455?c=15.00,0,0,0,dh"
+          target="_blank"
+          class="naver-map-btn"
+        >
+          네이버 지도에서 크게 보기
+        </a>
       </div>
     </section>
 
