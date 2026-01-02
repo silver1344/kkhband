@@ -87,6 +87,10 @@ useHead({
     { name: "description", content: "권경하밴드 공연 초대장" },
     { property: "og:title", content: "초대장" },
     { property: "og:description", content: "권경하밴드 공연 초대장" },
+    { property: "og:type", content: "website" },
+    { name: "twitter:card", content: "summary" },
+    { name: "twitter:title", content: "초대장" },
+    { name: "twitter:description", content: "권경하밴드 공연 초대장" }
   ],
 });
 </script>
