@@ -5,14 +5,17 @@ export default defineNuxtConfig({
   app: {
     baseURL: '/kkhband/',
     head: {
-      title: 'ROCK BAND 공연 초대',
+      title: '초대장',
       htmlAttrs: {
         lang: 'ko'
       },
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'ROCK BAND 라이브 공연에 초대합니다' }
+        { name: 'description', content: '권경하밴드 공연 초대장' },
+        { property: 'og:title', content: '초대장' },
+        { property: 'og:description', content: '권경하밴드 공연 초대장' },
+        { property: 'og:type', content: 'website' }
       ]
     }
   },

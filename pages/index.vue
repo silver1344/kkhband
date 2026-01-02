@@ -82,6 +82,11 @@
 
 <script setup>
 useHead({
-  title: "권경하밴드",
+  title: "초대장",
+  meta: [
+    { name: "description", content: "권경하밴드 공연 초대장" },
+    { property: "og:title", content: "초대장" },
+    { property: "og:description", content: "권경하밴드 공연 초대장" },
+  ],
 });
 </script>
