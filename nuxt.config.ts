@@ -3,7 +3,7 @@ export default defineNuxtConfig({
   target: 'static',
   
   app: {
-    baseURL: '/band-invitation/',
+    baseURL: '/kkhband/',
     head: {
       title: 'ROCK BAND 공연 초대',
       htmlAttrs: {
