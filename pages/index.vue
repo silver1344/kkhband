@@ -7,7 +7,7 @@
     <section class="event-info">
       <div class="date">2025년 5월 9일 (토)</div>
       <div class="time">오후 6시</div>
-      <div class="venue">공간 비틀즈</div>
+      <div class="venue">장소: 공간 비틀즈</div>
     </section>
 
     <section class="message">
