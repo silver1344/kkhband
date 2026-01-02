@@ -1,21 +1,21 @@
 <template>
   <div class="container">
     <header class="header">
-      <h1 class="title">LIVE CONCERT</h1>
-      <div class="band-name">ROCK STORM</div>
+      <h1 class="title">권경하밴드</h1>
     </header>
 
     <section class="event-info">
-      <div class="date">2024년 12월 28일 토요일</div>
-      <div class="time">오후 8시 개장 | 오후 9시 공연 시작</div>
+      <div class="date">2025년 5월 9일 (토)</div>
+      <div class="time">오후 6시</div>
       <div class="venue">홍대 클럽 SOUND</div>
     </section>
 
     <section class="message">
-      "뜨거운 록 사운드와 함께하는 특별한 밤!<br>
-      ROCK STORM의 첫 번째 정규 공연에<br>
-      여러분을 초대합니다.<br>
-      잊지 못할 음악의 순간을 함께 만들어요!"
+      이도율<br />
+      권경하<br />
+      변세미<br />
+      이재호<br />
+      최정은
     </section>
 
     <section class="setlist">
@@ -31,7 +31,7 @@
       <div class="contact-title">📞 문의 및 예약</div>
       <div>밴드 매니저: 010-1234-5678</div>
       <div>클럽 SOUND: 02-123-4567</div>
-      <div style="margin-top: 15px; color: #ff4444;">
+      <div style="margin-top: 15px; color: #ff4444">
         🎫 입장료: 15,000원 (1드링크 포함)
       </div>
     </section>
@@ -40,6 +40,6 @@
 
 <script setup>
 useHead({
-  title: 'ROCK STORM 라이브 공연 초대'
-})
+  title: "권경하밴드",
+});
 </script>
