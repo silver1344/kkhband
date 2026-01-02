@@ -46,12 +46,16 @@
         <div class="venue-name">공간 비틀즈</div>
         <div class="venue-address">서울특별시 마포구 와우산로29나길 18-6</div>
         <div class="venue-info">
-          지하철 2호선 홍익대입구역 7번 출구 도보 3분
+          지하철 2호선 홍익대입구역 7번 출구 도보 5분
         </div>
       </div>
 
       <div class="map-container">
-        <img src="/assets/images/nav.png" alt="공간 비틀즈 약도" class="map-image" />
+        <img
+          src="/assets/images/nav.png"
+          alt="공간 비틀즈 약도"
+          class="map-image"
+        />
       </div>
 
       <div class="map-link">
