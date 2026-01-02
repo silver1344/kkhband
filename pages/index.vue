@@ -51,16 +51,7 @@
       </div>
 
       <div class="map-container">
-        <iframe
-          src="https://map.naver.com/p/entry/place/1292176455?c=15.00,0,0,0,dh"
-          width="100%"
-          height="300"
-          frameborder="0"
-          scrolling="no"
-          marginheight="0"
-          marginwidth="0"
-        >
-        </iframe>
+        <img src="/assets/images/nav.png" alt="공간 비틀즈 약도" class="map-image" />
       </div>
 
       <div class="map-link">
