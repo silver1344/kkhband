@@ -84,8 +84,20 @@ body {
 .setlist-title {
   font-size: 1.5rem;
   color: #ff4444;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.setlist-part {
+  margin-bottom: 25px;
+}
+
+.part-title {
+  font-size: 1.3rem;
+  color: #ff4444;
   margin-bottom: 15px;
   text-align: center;
+  font-weight: bold;
 }
 
 .setlist-item {
@@ -94,6 +106,17 @@ body {
   margin: 10px 0;
   border-radius: 5px;
   border-left: 3px solid #ff4444;
+}
+
+.break-time {
+  text-align: center;
+  padding: 15px;
+  margin: 20px 0;
+  background: rgba(255,68,68,0.2);
+  border-radius: 8px;
+  color: #ff4444;
+  font-weight: bold;
+  font-size: 1.1rem;
 }
 
 .contact-info {
